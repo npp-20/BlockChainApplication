@@ -124,8 +124,12 @@
 
 ***\*传统献血流程图\****
 
-![传统献血结构图1](C:\Users\Nie\Pictures\传统献血结构图1.png)
+![传统献血结构图1](https://i.loli.net/2020/12/14/xl83d4v6JVXZALP.png)
 
 ***\*传统献血结构图：\****
 
-![传统献血流程图](C:\Users\Nie\Pictures\传统献血流程图.png)![传统献血结构图2](C:\Users\Nie\Pictures\传统献血结构图2.png)
+![传统献血结构图2](https://i.loli.net/2020/12/14/kZuS7QwmhfTY2L8.png)
+
+
+
+![传统献血流程图](https://i.loli.net/2020/12/14/qXOUSY2utQh3Av7.png)
