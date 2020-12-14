@@ -124,8 +124,8 @@
 
 ***\*传统献血流程图\****
 
-![image-20201214110520580](C:\Users\Nie\AppData\Roaming\Typora\typora-user-images\image-20201214110520580.png)
+![传统献血结构图1](C:\Users\Nie\Pictures\传统献血结构图1.png)
 
 ***\*传统献血结构图：\****
 
-![image-20201214110651790](C:\Users\Nie\AppData\Roaming\Typora\typora-user-images\image-20201214110651790.png)
+![传统献血流程图](C:\Users\Nie\Pictures\传统献血流程图.png)![传统献血结构图2](C:\Users\Nie\Pictures\传统献血结构图2.png)
